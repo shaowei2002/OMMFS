@@ -1,2 +1,5 @@
-# OMMFS
-A  novel  ordinal  multi- modal   feature   selection   (OMMFS)   framework   that   can simultaneously    identify    important    features    from    both pathological  images  and  multi-modal  genomic  data  (i.e., mRNA   transcription,   copy   number   variation,   and   DNA methylation data) for the prognosis of cancer patients. Our model is based on a generalized sparse canonical correlation analysis  framework,  by  which  we  also  take  advantage  of the  ordinal  survival  information  among  different  patients for  survival  outcome  prediction
+The proposed OMMFS method, which combines histopathological image, gene expression, DNA methylation, and copy number variation data for the survival analysis of early-stage KIRC(kidney clear renal cell carcinoma) patients.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+1. Firstly run main.m, that can identify informative features from the multi-modal data by our proposed OMMFS algorithm.
+2. Secondly run Survival.R that can process the survival analysis.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
