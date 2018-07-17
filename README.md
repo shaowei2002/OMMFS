@@ -1,0 +1,2 @@
+# OMMFS
+A  novel  ordinal  multi- modal   feature   selection   (OMMFS)   framework   that   can simultaneously    identify    important    features    from    both pathological  images  and  multi-modal  genomic  data  (i.e., mRNA   transcription,   copy   number   variation,   and   DNA methylation data) for the prognosis of cancer patients. Our model is based on a generalized sparse canonical correlation analysis  framework,  by  which  we  also  take  advantage  of the  ordinal  survival  information  among  different  patients for  survival  outcome  prediction
